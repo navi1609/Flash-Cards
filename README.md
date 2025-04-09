@@ -14,3 +14,5 @@ HTML: Provides the structure for the web application.
 CSS: Styles the application, ensuring a visually appealing and responsive design.
 
 JavaScript: Implements interactivity, including card flipping, shuffling, and progress tracking.
+
+This is a flashcard app to improve learning.
